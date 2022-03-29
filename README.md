@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Celiz</h1>
-<h3 align="center">A attemp of developer from Mar del Plata, Argentina</h3>
+<h3 align="center">A programmer attemp from Mar del Plata, Argentina</h3>
 
 - 🔭 I’m studying on **EESTN°5**
 
