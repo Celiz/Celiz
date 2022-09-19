@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying on **EESTN°5**
 
-- 🌱 I’m currently learning **PHP,HTML, CSS, JS**
+- 🌱 I’m currently learning **PHP,HTML, CSS, JS, MYSQL**
 
 - 📫 How to reach me **maticelizramos@gmail.com**
 
