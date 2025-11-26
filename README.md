@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying on **EESTN°5**
 
-- 🌱 I’m currently learning **Java, HTML, CSS, javascript, Next.js, React, Python**
+- 🌱 I’m currently learning **Next.js, React, web3**
 
 - 📫 How to reach me **maticelizramos@gmail.com**
 
