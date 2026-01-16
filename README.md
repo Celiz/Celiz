@@ -16,6 +16,7 @@
 </p>
 
 ### Projects I worked on
+- 2025 <b>1st place  - Best Plug-In for Hedera Agent Kit</b>  
 - 2024 <b> FinGuru </b> [fin.guru](https://fin.guru/)
 - 2023 <b> Tranqui V2 </b> [Tranqui.com](https://tranqui-landing.vercel.app/)
 
