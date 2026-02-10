@@ -1,31 +1,43 @@
-<h1 align="center">Hi 👋, I'm Matias Celiz</h1>
-<h3 align="center">programmer's attempt from Mar del Plata, Argentina</h3>
+## Hi!, I'm Matias Celiz 👋, 
+Lead Developer at [FinGurú](https://fin.guru). 
 
-- 🔭 I’m studying on **EESTN°5**
+### Achievements:
+1st place - Best Plug-In for Hedera Agent Kit, ETH Global Buenos Aires 2025
 
-- 🌱 I’m currently learning **Next.js, React, web3**
+10th Argentina - OIA 2022 l2 Regional , C++ Problem Solving
 
-- 📫 How to reach me **maticelizramos@gmail.com**
+You can contact me at <b>maticelizramos@gmail.com</b>
 
-- ⚡ Fun fact **videogames player B)**
+<a target="_blank" href="https://www.linkedin.com/in/celizm/" target="_blank">
+   <img alt="LinkedIn - celizm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/celizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celizm" height="30" width="40" /></a>
-<a href="https://instagram.com/celizin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celizin_" height="30" width="40" /></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Celiz&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ovi" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Celiz&theme=dark&hide_border=true" alt="mystreak"/>
 
 ### Projects I worked on
-- 2025 <b>1st place  - Best Plug-In for Hedera Agent Kit</b>  
-- 2024 <b> FinGuru </b> [fin.guru](https://fin.guru/)
-- 2023 <b> Tranqui V2 </b> [Tranqui.com](https://tranqui-landing.vercel.app/)
+- 2025, 2026 <b> Flipping Realbiz </b> [Flipping Realbiz](https://realbiz.io/)
+- 2025 <b> Weighing system for trucks Ciageser SA - Esur SA - UTE  (Mar del Plata)
+- 2024, 2025 <b> Grucar, interal system for tow truck </b> (Mar del Plata)
+- 2024, 2025, 2026 <b> FinGurú Cursos </b> [fin.guru](https://cursos.fin.guru/en)
+- 2024, 2025, 2026 <b> FinGurú (News App) </b> [fin.guru](https://fin.guru/en)
+- 2023, 2024 <b> Tranqui App </b> [playstore](https://play.google.com/store/apps/details?id=com.tranquiapp.v2&hl=en_IE)
+  
+### Technologies
+Front: Typescript/Javascript, Next.js, React.js, Remix, Ionic Framework, Expo,Tailwind CSS, SCSS. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+DB: MySQL, Postgres, MongoDB.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celiz&show_icons=true&locale=en&layout=compact" alt="celiz" /></p>
+Otero: C++, Batch.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celiz&show_icons=true&locale=en" alt="celiz" /></p>
+#### Other tools/skills
+- Figma (UI/UX Design)
+- Supabase
+- Google Cloud Platform
+- Git/GitHub
+- SCRUM
+- Postman/Bruno
+- Storybook
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celiz&" alt="celiz" /></p>
-
+- ⚡ Fun fact **videogames player B)**
