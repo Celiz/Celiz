@@ -1,5 +1,5 @@
 ## Hi!, I'm Matias Celiz 👋, 
-Lead Developer at [FinGurú](https://fin.guru). 
+Ex Lead Developer at [FinGurú](https://fin.guru). 
 
 ### Achievements:
 1st place - Best Plug-In for Hedera Agent Kit, ETH Global Buenos Aires 2025
