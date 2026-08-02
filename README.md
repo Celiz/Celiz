@@ -15,6 +15,13 @@ You can contact me at <b>maticelizramos@gmail.com</b>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Celiz&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ovi" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Celiz&theme=dark&hide_border=true" alt="mystreak"/>
+### Featured Project
+
+**BondiMDP** (Co-Creator)
+A public transport platform used by thousands of people in Mar del Plata.
+
+→ https://www.bondimdp.com.ar
+
 
 ### Projects I worked on
 - 2025, 2026 <b> Flipping Realbiz </b> [Flipping Realbiz](https://realbiz.io/)
