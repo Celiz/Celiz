@@ -8,13 +8,9 @@ Ex Lead Developer at [FinGurú](https://fin.guru).
 
 You can contact me at <b>maticelizramos@gmail.com</b>
 
-<a target="_blank" href="https://www.linkedin.com/in/celizm/" target="_blank">
-   <img alt="LinkedIn - celizm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Celiz&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ovi" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Celiz&theme=dark&hide_border=true" alt="mystreak"/>
+
+
 ### Featured Project
 
 **BondiMDP** (Co-Creator)
